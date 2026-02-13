@@ -21,11 +21,11 @@ Alerte d'un antivirus
 Journaux Windows à surveiller
 
 - Security.evtx :
-  - 4624 → Logon
-  - 4625 → Logon failed
-  - 4672 → Privileges spéciaux
-  - 4688 → Process creation
-  - 7045 → Création de service
+ - 4624 → Logon
+ - 4625 → Logon failed
+ - 4672 → Privileges spéciaux
+ - 4688 → Process creation
+ - 7045 → Création de service
 - Microsoft-Windows-PowerShell/Operational
 - Microsoft-Windows-TaskScheduler
 - TerminalServices-LocalSessionManager
